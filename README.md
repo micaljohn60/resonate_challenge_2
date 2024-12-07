@@ -25,7 +25,7 @@ To get a local copy of this project, follow these steps:
  Run the following command to clone the repository:
 
  ```
-git clone https://github.com/your-username/your-project-name.git
+git clone https://github.com/micaljohn60/resonate_challenge_2.git
  ```
 
  After cloning Navigate tot he folder
