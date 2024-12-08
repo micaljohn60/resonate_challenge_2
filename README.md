@@ -2,6 +2,11 @@
 
 # Resonate Coding Challenges 2
 
+## Live Demo:
+You can directly experience the live demo of the project using the following link:
+[Live Demo - Resonate Challenge 2](https://resonate-challenge-2-iusi0jsy2-micaljohn60s-projects.vercel.app/)
+
+
 ## Table of Contents
 1. Prerequisites
 2. Clone the Project
